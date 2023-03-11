@@ -10,7 +10,9 @@ https://web.archive.org/web/20220401041957/https://www.the-modeling-agency.com/c
 
 ### Situation
 
-The user
+1. A customer contacts the small business to shedule a diagnosis appointment.
+2. Chatbot attempts to understand the customer's request.
+3. Chatbot authenticates the customer and attempts to gather relevant data to schedule and appointment (e.g. location, availability, Symptoms)
 
 ### Data Mining Goals
 
