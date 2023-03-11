@@ -1,4 +1,5 @@
 # Small-Business--ChatBot
+
 # CRISP-DM Process Model
 
 https://web.archive.org/web/20220401041957/https://www.the-modeling-agency.com/crisp-dm.pdf
@@ -6,7 +7,6 @@ https://web.archive.org/web/20220401041957/https://www.the-modeling-agency.com/c
 ## Business Understanding
 
 ### Objectives
-
 
 ### Situation
 
@@ -19,7 +19,6 @@ The user
 - Poetry: Project Dependency Management Tool
 - Numpy: General purpose array-processing
 - Pandas: Data analysis and manipulation tool
-- Morgan: logger
 - Pytest: Test framework
 
 ## Data Understanding
